@@ -9,8 +9,7 @@ include("getNodes.php");
 $lat = $nodesPositions[0][1];
 $long = $nodesPositions[0][2];
 
-$APIKey = "2c1ba8abe4a199abd4b3a1dcf9440da6";
-//$APIKey = "b6907d289e10d714a6e88b30761fae22";
+$APIKey = "??????????????????????";
 
 //USING https://openweathermap.org/ for wheather data retrival.
 
