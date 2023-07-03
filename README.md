@@ -6,7 +6,7 @@ Final Year Dissertation Project
 - Achieved 12 months of battery life at 1h samplying frequency.
 - Implemented wireless communication and a cloud platform for storage and visualization of the data.
 - Implemented a complementary Android application for the visualisation and management of the nodes.
-- Designed a PCB and a 3D enclosure.
+- Bespoke design of sensor nodes, PCB and 3D enclosure.
 
 ## Index Page
 ![alt text](Index_Picture.png)
